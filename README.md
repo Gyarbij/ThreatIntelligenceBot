@@ -1,3 +1,16 @@
+# Threat Intelligence Bot (I call it Patsolin)
+
+A fork of the Threat Intelligence Discord Bot from vxunderground that has a focus on use cases by enterprise security teams/my home lab :). It also aims to add other integrations (hence the dropping of the Discord from the name) and more efficient deployment options.
+
+If you want to see something, open an issue or make it and add a pull request (preferably upstream to benefit the wider community)
+
+Things To Do:
+* Docker
+
+I'll get around to cleaning up the README after, so left the OG intact below.
+
+###########
+
 # Threat Intelligence Discord Bot
 The vx-underground Threat Intelligence Discord Bot gets updates from various clearnet domains, ransomware threat actor domains, and Telegram channels. This bot will check for updates in intervals of 1800 seconds (omit Telegram bot, this is gotten in real time).
 
