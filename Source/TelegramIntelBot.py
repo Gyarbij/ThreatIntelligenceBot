@@ -8,7 +8,7 @@ from telethon.tl.functions.channels import JoinChannelRequest
 # downloads to the TelegramImages directory by default, replace if desired otherwise
 image_download_path = os.path.join(os.path.split(os.path.abspath(__file__))[0], '..', 'TelegramImages')
 
-# put your telegram api stuff in here
+# put your telegram api credentials below:
 telegram_client = TelegramClient('Bot Name', 'API ID', 'API HASH')
 telegram_client.start()
 
