@@ -1,6 +1,3 @@
 ['https://www.cisa.gov/uscert/ncas/alerts.xml', 'US-CERT CISA'],
 ['https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml', 'NCSC'],
 ['https://www.cisecurity.org/feed/advisories', 'Center of Internet Security']
-['https://advisories.ncsc.nl/rss/advisories', 'NCSC Nederland Beveiligingsadviezen']
-['https://feeds.ncsc.nl/nieuws.rss', 'NCSC Nederland Nieuwsberichten']
-['https://feeds.english.ncsc.nl/news.rss', 'NCSC Nederland English News']
