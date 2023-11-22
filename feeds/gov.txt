@@ -1,0 +1,3 @@
+https://www.cisa.gov/uscert/ncas/alerts.xml
+https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml
+https://www.cisecurity.org/feed/advisories
