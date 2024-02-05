@@ -11,7 +11,7 @@ discord.py==2.3.2
 feedparser==6.0.10
 frozenlist==1.4.0
 idna==3.4
-multidict==6.0.2
+multidict==6.0.5
 pyaes==1.6.1
 pyasn1==0.4.8
 requests==2.31.0
